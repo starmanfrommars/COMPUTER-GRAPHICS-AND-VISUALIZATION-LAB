@@ -17,18 +17,18 @@
 
 3. Develop a OpenGL program to implement to recursively subdivide a tetrahedron to form 3D sierpinski gasket. The number of recursive steps is to be specified by the user.
 
-4. Develop a OpenGL program to Spin 3D sierpinski gasket using OpenGL transformation matrices.
+4. Develop a OpenGL program to Clip 2D lines using Cohen-Sutherland algorithm.
 
-5. Develop a OpenGL program to Clip 2D lines using Cohen-Sutherland algorithm.
+5. Develop a OpenGL program to Spin 3D sierpinski gasket using OpenGL transformation matrices.
 
 6. Develop a menu driven program to animate the polygon using 3D geometric transformations.
 
-7. Develop a OpenGL program to draw a color cube and allow the user to move the camera suitably to
-experiment with perspective viewing.
-
-8. Develop a OpenGL program to draw a simple shaded scene consisting of a tea pot on a table. Define
+7. Develop a OpenGL program to draw a simple shaded scene consisting of a tea pot on a table. Define
 suitably the position and properties of the light source along with the properties of the surfaces of the
 solid object used in the scene.
+
+8. Develop a OpenGL program to draw a color cube and allow the user to move the camera suitably to
+experiment with perspective viewing.
 
 9. Develop a OpenGL program to draw a simple scene containing few 3D objects and provide day and night
 effect. Define suitably the position and properties of the light source used in the scene.
