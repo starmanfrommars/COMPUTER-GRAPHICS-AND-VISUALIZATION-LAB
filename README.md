@@ -27,8 +27,8 @@
 suitably the position and properties of the light source along with the properties of the surfaces of the
 solid object used in the scene.
 
-8. Develop a OpenGL program to draw a color cube and allow the user to move the camera suitably to
-experiment with perspective viewing.
-
-9. Develop a OpenGL program to draw a simple scene containing few 3D objects and provide day and night
+8. Develop a OpenGL program to draw a simple scene containing few 3D objects and provide day and night
 effect. Define suitably the position and properties of the light source used in the scene.
+
+9. Develop a OpenGL program to draw a color cube and allow the user to move the camera suitably to
+experiment with perspective viewing.
